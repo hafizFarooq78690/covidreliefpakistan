@@ -1,4 +1,7 @@
 /* Custom margins, alignments */
+.mt-8 {
+  margin-top: 8px !important;
+}
 .mt-11 {
   margin-top: 11px !important;
 }
@@ -80,6 +83,16 @@
 }
 .contact {
   font-family: "Open-Sans-Regular";
+  font-size: 12px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: 0.96px;
+  color: #424242;
+}
+
+.doctors-name{
+  font-family: "Open-Sans-Bold";
   font-size: 12px;
   font-stretch: normal;
   font-style: normal;

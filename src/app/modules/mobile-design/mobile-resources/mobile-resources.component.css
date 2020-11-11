@@ -44,6 +44,21 @@
 .mt-16 {
   margin-top: 16px !important;
 }
+
+.mt-8 {
+  margin-top: 8px !important;
+}
+
+
+.doctors-name {
+  font-family: "Open-Sans-Bold";
+  font-size: 12px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: 0.96px;
+  color: #424242;
+}
 .gov-link-title {
   font-family: "Open-Sans-Bold";
   font-style: normal;
